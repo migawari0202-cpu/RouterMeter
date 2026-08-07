@@ -1,0 +1,19 @@
+# Build output
+bin/
+obj/
+build/
+
+# Local configuration and runtime state
+config.json
+daily_state.json
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db

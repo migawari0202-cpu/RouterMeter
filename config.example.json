@@ -1,0 +1,5 @@
+{
+  "ApiKey": "sk-or-REPLACE_WITH_YOUR_OPENROUTER_API_KEY",
+  "DailyBudget": 20,
+  "RefreshSeconds": 5
+}
